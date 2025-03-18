@@ -6,3 +6,7 @@
     font-size: small;
 }
 
+a:link, a:visited, a:active {
+    color: blue;
+    text-decoration: underline;
+}
